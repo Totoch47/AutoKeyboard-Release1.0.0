@@ -8,7 +8,11 @@
 
 👉 La dernière version stable est disponible ici :
 
+🔗 [Page de la release v1.0.0](https://github.com/Totoch47/AutoKeyboard-Release1.0.0/releases/tag/v1.0.0)
+
 🎯 [Télécharger directement l’installeur (.exe)](https://github.com/Totoch47/AutoKeyboard-Release1.0.0/releases/download/v1.0.0/AutoKeyboard_Setup.exe)
+
+🔐 [Télécharger le fichier SHA256](https://github.com/Totoch47/AutoKeyboard-Release1.0.0/releases/download/v1.0.0/proof_sha256-HASH.txt)
 
 
 Vous y trouverez :
