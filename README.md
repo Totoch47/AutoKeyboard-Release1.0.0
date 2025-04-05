@@ -44,7 +44,7 @@ Vous pouvez vérifier que le fichier téléchargé est intact grâce au hash con
 
 ## ❤️ Soutien
 
-Développé en solo par [Totoch47](https://github.com/Totoch47).  
+Développé par [Totoch47](https://github.com/Totoch47).  
 Une version Pro est en développement pour débloquer toutes les fonctionnalités.
 
 ---
