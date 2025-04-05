@@ -52,6 +52,9 @@ Vous pouvez vérifier que le fichier téléchargé est intact grâce au hash con
 Développé par [Totoch47](https://github.com/Totoch47).  
 Une version Pro est en développement pour débloquer toutes les fonctionnalités.
 
+☕ [Soutenir le développement sur Ko-fi](https://ko-fi.com/totoch)
+
+
 ---
 
 > © 2025 Totoch - Tous droits réservés.
