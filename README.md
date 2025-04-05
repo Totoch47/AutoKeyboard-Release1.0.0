@@ -8,7 +8,8 @@
 
 👉 La dernière version stable est disponible ici :
 
-🔗 **[Télécharger AutoKeyboard v1.0.0](https://github.com/Totoch47/AutoKeyboard-Release1.0.0)**
+🎯 [Télécharger directement l’installeur (.exe)](https://github.com/Totoch47/AutoKeyboard-Release1.0.0/releases/download/v1.0.0/AutoKeyboard_Setup.exe)
+
 
 Vous y trouverez :
 - ✅ L’installeur : `AutoKeyboard_Setup.exe`
