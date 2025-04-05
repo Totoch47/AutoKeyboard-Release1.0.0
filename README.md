@@ -12,8 +12,6 @@
 
 🎯 [Télécharger directement l’installeur (.exe)](https://github.com/Totoch47/AutoKeyboard-Release1.0.0/releases/download/v1.0.0/AutoKeyboard_Setup.exe)
 
-🔐 [Télécharger le fichier SHA256](https://github.com/Totoch47/AutoKeyboard-Release1.0.0/releases/download/v1.0.0/proof_sha256-HASH.txt)
-
 
 Vous y trouverez :
 - ✅ L’installeur : `AutoKeyboard_Setup.exe`
@@ -44,6 +42,8 @@ Vous y trouverez :
 ## 🔒 Intégrité
 
 Vous pouvez vérifier que le fichier téléchargé est intact grâce au hash contenu dans `proof_sha256.txt`.
+
+🔐 [Télécharger le fichier SHA256](https://github.com/Totoch47/AutoKeyboard-Release1.0.0/releases/download/v1.0.0/proof_sha256-HASH.txt)
 
 ---
 
