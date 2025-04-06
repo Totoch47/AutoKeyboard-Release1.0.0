@@ -15,7 +15,7 @@
 
 Vous y trouverez :
 - ✅ L’installeur : `AutoKeyboard_Setup.exe`
-- 🔐 Le fichier de vérification : `proof_sha256.txt`
+- 🔐 Le fichier de vérification : `checksum.txt`
 
 ---
 
