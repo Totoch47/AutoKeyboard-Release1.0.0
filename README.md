@@ -41,7 +41,7 @@ Vous y trouverez :
 
 ## 🔒 Intégrité
 
-Vous pouvez vérifier que le fichier téléchargé est intact grâce au hash contenu dans `proof_sha256.txt`.
+Vous pouvez vérifier que le fichier téléchargé est intact grâce au hash contenu dans `(https://github.com/Totoch47/AutoKeyboard-Release1.0.0/releases/download/v1.0.0/checksum.txt)`.
 
 🔐 [Télécharger le fichier SHA256](https://github.com/Totoch47/AutoKeyboard-Release1.0.0/releases/download/v1.0.0/checksum.txt)
 
